@@ -1,6 +1,6 @@
 # View2ViewTransition
 For custom interactive viewController transition from one view to another view.
-
+实现两个视图切换及转场的简单框架
 <img src="https://github.com/naru-jpn/View2ViewTransition/blob/master/preview.gif?raw=true" width="300">
 
 ## installation
